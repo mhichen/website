@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Example post
-cover: cover.jpg
-date:   2013-12-09 12:00:00
+title: Home
+cover: Nordkapp_edited.JPG
+<!--date:   2013-12-09 12:00:00-->
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+I am a fourth year graduate student in Materials Science & Engineering at the University of Michigan, Ann Arbor.  
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+<!--## Introducing Flex, a Jekyll theme-->
 
-## Open Sourced on GitHub
+<!--Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).-->
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+<!--## Open Sourced on GitHub
+
+Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!-->

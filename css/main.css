@@ -22,6 +22,7 @@ body {
   font-weight: 400;
   font-size: 0.85em;
   overflow: hidden;
+
 }
 
 a {
@@ -41,6 +42,10 @@ a:hover {
 
 .separator {
   color: #555;
+}
+
+#cover-photo {
+  max-width: 95%
 }
 
 /*****************************************************************************/
