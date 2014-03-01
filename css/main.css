@@ -145,6 +145,7 @@ a:hover {
 }
 
 .post {
+  margin-top: 3em;
   line-height: 24px;
   max-width: 725px;
   clear: both;
@@ -203,6 +204,11 @@ a:hover {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+
+.ul {
+  list-style-type: circle;
 }
 
 /*****************************************************************************/

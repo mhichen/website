@@ -1,0 +1,4 @@
+Posts are edited in _posts/
+Things that are edited in _layouts/default.html won't get rewritten.
+Overall format details for each post can be found in _includes/post.html
+Posts need to have format <date>-postTitle.md
