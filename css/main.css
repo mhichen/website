@@ -13,6 +13,7 @@ html, body {
   height: 100%;
   width: 100%;
   -webkit-font-smoothing: antialiased;
+  back
 }
 
 body {
@@ -220,6 +221,11 @@ a:hover {
 .ul {
   list-style-type: circle;
 }
+
+/*.a[href$=".pdf"]{
+    background: url(acrobat.gif) no-repeat left center;
+    padding-left: 20px;
+}*/
 
 /*****************************************************************************/
 /*

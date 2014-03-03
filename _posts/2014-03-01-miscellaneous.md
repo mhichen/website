@@ -15,4 +15,4 @@ Here are a few links to things that interest me:
 
 [Economist](http://www.economist.com/)
 
-In college, I used to write for the Columbia Daily Spectator; [Here](http://www.columbiaspectator.com/contributors/ivy-chen) are the pieces I've written.
+In college, I used to write and take photographs for the Columbia Daily Spectator; [These](http://www.columbiaspectator.com/contributors/ivy-chen) are the pieces I've written.
