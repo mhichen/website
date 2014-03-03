@@ -4,7 +4,6 @@ title: Miscellaneous
 categories: posts
 cover: Nordkapp_edited.JPG
 logo: profile_cropped.jpg
-categories: posts
 ---
 
 

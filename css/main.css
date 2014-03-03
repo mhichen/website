@@ -151,10 +151,20 @@ a:hover {
   clear: both;
 }
 
+.post h1{
+  margin-bottom: 1em;
+}
+
 .post h2 {
   margin-top: 1.25em;
   margin-left: -0.5em;
   margin-bottom: 1.25em;
+}
+
+.post h3{
+  margin-top: 1em;
+  margin-bottom:1em;
+
 }
 
 .post a,
@@ -245,7 +255,7 @@ a:hover {
 }
 
 .post-link {
-  margin-bottom: 0.75em;
+  margin-bottom: 1.75em;
 }
 
 .post-title {
